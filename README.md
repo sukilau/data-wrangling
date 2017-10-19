@@ -16,8 +16,8 @@ $ python main.py
 *main.py*
 * Example code computing total data transfer from log file. User can input specific file type, date range and print log file.
 
-*data-stransfer.ipynb*
+*data-transfer.ipynb*
 * Jupyter notebook with the same script.
 
-*logfile.tv*
+*logfile.tsv*
 * Example CDN access log.
